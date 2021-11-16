@@ -1,0 +1,1687 @@
+@media only screen and (max-width: 1680px) {
+	header nav .navbar-brand {
+		width: 70px;
+	}
+	header nav {
+		padding: 10px 100px;
+	}
+	.carousel {
+		height: 910px;
+	}
+	.line {
+		width: 520px;
+		height: 18px;
+	}
+	.carousel .text {
+		margin-top: 270px;
+	}
+	.carousel .text h2 {
+		font-size: 36px;
+	}
+	.benefit .benefit-item p,
+	.carousel .text .text-intro p,
+	.doctors .doctors-text p,
+	.ingredient .ingredient-item p,
+	.reason .reason-text p,
+	.review .review-item p,
+	.videos .card .card-text {
+		font-size: 16px;
+	}
+	.benefit {
+		width: 70%;
+	}
+	.reason {
+		margin-top: 910px;
+	}
+	.reason .reason-text {
+		padding-top: 15px;
+	}
+	#ingredient h2,
+	.reason .reason-text h2 {
+		font-size: 32px;
+		margin-bottom: 10px;
+	}
+	.videos .card .card-title {
+		font-size: 22px;
+	}
+	.videos .card .card-title__left,
+	.videos .card .card-title__right {
+		width: 100px;
+	}
+	.forms .forms-top .discount,
+	.forms .forms-top .discount .real-price {
+		font-size: 35px;
+	}
+	.forms .forms-top .discount > span:not([class="real-price"]) {
+		font-size: 30px;
+	}
+	.forms .forms-top .price {
+		font-size: 40px;
+	}
+	.forms .forms-top .price {
+		height: 80px;
+		line-height: 80px;
+	}
+	.forms form button,
+	.forms form input {
+		height: 70px;
+		font-size: 24px;
+		line-height: 70px;
+	}
+	footer #logo img {
+		width: 110px;
+		height: 110px;
+	}
+	.doctors .doctors-image {
+		width: 70%;
+		margin: auto;
+	}
+	.doctors .doctors-text p::after {
+		right: 122px;
+	}
+	.ask {
+		width: 86%;
+	}
+	.ask h3 {
+		font-size: 34px;
+	}
+	.ask h3::before {
+		width: 16px;
+		height: 36px;
+	}
+	.wrapper.detail {
+		margin: 90px;
+		margin-top: 170px;
+	}
+	.side-bar {
+		top: 89px;
+	}
+	.content-post .text h5 {
+		font-size: 32px;
+	}
+	.content-post .text h6 {
+		font-size: 24px;
+		padding: 20px 0;
+	}
+	.side-bar .card .card-body .card-title {
+		font-size: 26px;
+	}
+	.side-bar .card .card-body .card-text .left,
+	.side-bar .card .card-body .card-text .right {
+		font-size: 22px;
+	}
+	.recommend .title p {
+		font-size: 24px;
+	}
+	.recommend .title button {
+		font-size: 23px;
+	}
+	.recommend__item .card .card-body h5 {
+		font-size: 20px;
+	}
+	.contact-page-area {
+		margin-top: 170px;
+	}
+}
+@media only screen and (max-width: 1440px) {
+	.carousel {
+		height: 850px;
+	}
+	header nav .navbar-collapse ul li a {
+		font-size: 16px;
+	}
+	.navbar .navbar-brand {
+		width: 65px;
+	}
+	header nav {
+		padding: 10px 80px;
+	}
+	.title {
+		font-size: 34px;
+	}
+	.line {
+		width: 432px;
+		height: 13px;
+	}
+	.carousel .text {
+		margin-top: 270px;
+	}
+	.carousel .text h2 {
+		font-size: 34px;
+	}
+	.benefit {
+		width: 75%;
+	}
+	.benefit .benefit-item h4 {
+		padding-bottom: 10px;
+	}
+	.reason {
+		margin-top: 850px;
+	}
+	.reason .reason-text p {
+		line-height: 24px;
+	}
+	.reason .reason-text h2 {
+		font-size: 28px;
+	}
+	.reason .reason-img img {
+		height: 95%;
+	}
+	.ingredient .ingredient-item h4 {
+		margin-bottom: 12px;
+	}
+	.videos .card .card-title {
+		font-size: 22px;
+	}
+	.videos .card .card-title__left,
+	.videos .card .card-title__right {
+		width: 100px;
+	}
+	.forms .forms-top .discount,
+	.forms .forms-top .discount .real-price,
+	.forms .forms-top .price {
+		font-size: 35px;
+	}
+	.forms .forms-top .price {
+		height: 70px;
+		line-height: 70px;
+	}
+	.forms form button,
+	.forms form input {
+		height: 70px;
+		font-size: 24px;
+		line-height: 70px;
+	}
+	header nav .navbar-collapse ul li a {
+		font-size: 18px;
+	}
+	.videos {
+		width: 90%;
+	}
+	.videos .card iframe {
+		height: 500px;
+	}
+	.doctors .doctors-image {
+		width: 80%;
+		margin: 30px;
+	}
+	footer #logo img {
+		width: 100px;
+		height: 100px;
+	}
+	.ingredient .ingredient-item img {
+		width: 70%;
+		margin: auto;
+		margin-bottom: 20px;
+	}
+	.doctors .doctors-text p::after {
+		bottom: 45px;
+	}
+	.video-intro .card {
+		height: 502px;
+	}
+	.video-intro .card .card-body {
+		padding: 30px;
+	}
+	.video-intro {
+		width: 100%;
+	}
+	.video-intro .card .card-title__right {
+		width: 55px;
+	}
+	.wrapper {
+		margin-bottom: 80px;
+		margin-top: 160px;
+	}
+	.blog .menu .form-check label,
+	.post .card .card-body .card-text {
+		font-size: 17px;
+	}
+	.post .card .card-body .card-title {
+		font-size: 24px;
+		padding-bottom: 15px;
+	}
+	.blog .side-bar .most-view .text p {
+		line-height: 20px;
+	}
+	.side-bar .card .card-body {
+		padding: 15px;
+	}
+	.ask {
+		width: 96%;
+		margin-top: 170px;
+	}
+	.ask h3 {
+		font-size: 30px;
+	}
+	.ask h3::before {
+		width: 12px;
+		height: 31px;
+	}
+	.ask .ask-item {
+		padding: 30px;
+		padding-right: 55px;
+	}
+	.ask .answer {
+		padding: 30px;
+	}
+	.ask .answer p,
+	.ask .ask-item p {
+		font-size: 17px;
+	}
+	.wrapper.detail {
+		margin: 0;
+		padding: 0 80px;
+		margin-top: 150px;
+	}
+	.content-post .text h5 {
+		font-size: 28px;
+	}
+	.content-post .text p,
+	.link span,
+	.recommend__item .card .card-body p {
+		font-size: 16px;
+	}
+	.content-post .text h6 {
+		font-size: 22px;
+		padding: 17px 0;
+	}
+	.side-bar .card .card-body .card-title {
+		font-size: 24px;
+	}
+	.side-bar .card .card-body .card-text .left,
+	.side-bar .card .card-body .card-text .right {
+		font-size: 20px;
+	}
+	.recommend .title p {
+		font-size: 22px;
+	}
+	.recommend .title button {
+		font-size: 21px;
+	}
+	.recommend__item .card .card-body h5 {
+		font-size: 19px;
+	}
+	.link {
+		padding-bottom: 30px;
+	}
+	.contact_content_title {
+		font-size: 32px;
+	}
+	.contact_content_text p {
+		font-size: 17px;
+		color: #989898;
+	}
+}
+@media only screen and (max-width: 1366px) {
+	.carousel .text h2 {
+		font-size: 33px;
+	}
+	.reason .reason-text h2 {
+		font-size: 33px;
+	}
+	#ingredient h2 {
+		font-size: 32px;
+	}
+	.title {
+		font-size: 33px;
+	}
+	.benefit {
+		width: 80%;
+	}
+	.review .review-item .text .name {
+		font-size: 18px;
+	}
+	.review .review-item .text .name {
+		padding: 6px 25px 9px 12px;
+	}
+	.forms .forms-top .discount,
+	.forms .forms-top .discount .real-price,
+	.forms .forms-top .price {
+		font-size: 32px;
+	}
+	.forms .forms-top .price {
+		height: 65px;
+		line-height: 65px;
+	}
+	.forms form button,
+	.forms form input {
+		height: 60px;
+		font-size: 23px;
+		line-height: 60px;
+	}
+	header nav .navbar-collapse ul li a {
+		font-size: 18px;
+	}
+	.doctors::before {
+		content: none;
+	}
+	footer #logo img {
+		width: 90px;
+		height: 90px;
+	}
+	footer .logo {
+		font-size: 36px;
+	}
+	.ingredient .ingredient-item img {
+		margin: auto;
+		margin-bottom: 20px;
+	}
+	.doctors .doctors-text p::after {
+		bottom: 45px;
+		left: unset;
+	}
+	.video-intro .card .card-body {
+		padding: 20px;
+	}
+	.wrapper {
+		margin: 110px 0;
+	}
+	.post .card .card-body .card-title {
+		font-size: 27px;
+	}
+	.post .card .card-body .card-title {
+		font-size: 26px;
+	}
+	.side-bar .card .card-body .card-text .left,
+	.side-bar .card .card-body .card-text .right {
+		font-size: 17px;
+	}
+	.side-bar .card .card-body .card-text .right {
+		padding: 5px 17px;
+	}
+	.link span {
+		font-size: 15px;
+	}
+}
+@media only screen and (max-width: 1280px) {
+	header nav .navbar-collapse ul li a {
+		font-size: 16px;
+	}
+	.navbar .navbar-brand {
+		width: 55px;
+	}
+	header nav {
+		padding: 5px 80px;
+	}
+	.carousel {
+		height: 777px;
+	}
+	.carousel .text h2 {
+		font-size: 32px;
+	}
+	.reason .reason-text h2 {
+		font-size: 27px;
+		margin-bottom: 10px;
+	}
+	.title {
+		font-size: 27px;
+	}
+	.line {
+		width: 350px;
+		height: 12px;
+	}
+	.benefit .benefit-item p,
+	.carousel .text .text-intro p,
+	.doctors .doctors-text,
+	.ingredient .ingredient-item p,
+	.reason .reason-text p,
+	.review .review-item .text .name,
+	.review .review-item p,
+	.videos .card .card-text {
+		font-size: 16px;
+	}
+	.doctors .doctors-text p,
+	.reason .reason-text p,
+	.review .review-item p {
+		line-height: 27px;
+	}
+	.videos .card .card-title {
+		font-size: 20px;
+	}
+	.videos .card .card-body {
+		padding: 30px;
+	}
+	.forms .forms-top {
+		margin-top: 30px;
+	}
+	.forms .forms-top .discount,
+	.forms .forms-top .discount .real-price,
+	.forms .forms-top .price {
+		font-size: 28px;
+	}
+	.forms .forms-top .discount {
+		line-height: 37px;
+	}
+	.forms .forms-top .price {
+		height: 58px;
+		line-height: 58px;
+	}
+	.forms form {
+		margin-top: 40px;
+	}
+	.forms form button,
+	.forms form input {
+		height: 55px;
+		font-size: 20px;
+		line-height: 50px;
+	}
+	.carousel::after {
+		content: none;
+	}
+	.forms .forms-top .price {
+		height: 50px;
+		line-height: 50px;
+	}
+	.forms .forms-top .discount > span:not([class="real-price"]),
+	.forms .forms-top .price {
+		font-size: 23px;
+	}
+	.forms .forms-top .discount .real-price {
+		font-size: 24px;
+	}
+	.reason {
+		padding: 0 50px;
+		margin-top: 777px;
+	}
+	.reason .reason-text p {
+		line-height: 23px;
+	}
+	.reason .reason-img img {
+		height: 100%;
+	}
+	.benefit {
+		width: 88%;
+	}
+	.line {
+		margin: 50px 0;
+	}
+	.line.left {
+		margin-left: 80px;
+		width: 300px;
+	}
+	.ingredient {
+		padding: 0 80px;
+		margin-top: 25px;
+	}
+	.doctors,
+	.review {
+		padding: 0 80px;
+	}
+	.videos .card iframe {
+		height: 369px;
+	}
+	.video-intro .card iframe {
+		height: 500px;
+	}
+	.video-intro .card .card-title__right {
+		display: none;
+	}
+	.wrapper {
+		padding: 0 50px;
+		margin-bottom: 60px;
+		margin-top: 140px;
+	}
+	.post .card .card-body .card-title {
+		font-size: 22px;
+		padding-bottom: 10px;
+	}
+	.blog .menu .form-check label,
+	.post .card .card-body .card-text {
+		font-size: 16px;
+	}
+	.blog .side-bar {
+		padding: 15px;
+	}
+	.post .card .card-body .card-text {
+		padding-bottom: 0;
+	}
+	.blog .side-bar .most-view {
+		margin-bottom: 20px;
+		align-items: flex-start;
+	}
+	.blog .side-bar .most-view img {
+		margin-right: 10px;
+		width: 20%;
+	}
+	.blog .side-bar .most-view .text p {
+		line-height: 19px;
+	}
+	.ask {
+		width: 96%;
+		margin-top: 140px;
+	}
+	.ask h3 {
+		font-size: 26px;
+	}
+	.ask h3::before {
+		width: 10px;
+		height: 28px;
+	}
+	.ask .ask-item {
+		padding: 30px;
+		padding-right: 55px;
+	}
+	.ask .answer {
+		padding: 30px;
+	}
+	.wrapper.detail {
+		padding: 0 70px;
+	}
+	.side-bar .card .card-body {
+		padding: 15px;
+	}
+	.content-post .text p,
+	.recommend__item .card .card-body p {
+		font-size: 16px;
+	}
+	.contact-page-area {
+		margin-top: 140px;
+	}
+}
+@media only screen and (max-width: 1024px) {
+	body {
+		font-size: 14px;
+	}
+	header nav .navbar-collapse ul li a {
+		font-size: 16px;
+		color: #fff;
+		font-weight: 700;
+	}
+	header nav {
+		padding: 10px 80px;
+	}
+
+	header nav .navbar-collapse ul li a {
+		font-size: 14px;
+		font-weight: 500;
+		padding: 0;
+	}
+
+	.carousel {
+		height: 765px;
+	}
+	.carousel .text h2 {
+		font-size: 30px;
+	}
+	.carousel .text .more {
+		padding: 8px 35px 11px 35px;
+		font-size: 18px;
+	}
+	.reason {
+		padding: 0 70px;
+	}
+	.reason .reason-text h2 {
+		font-size: 28px;
+	}
+	.reason .reason-img {
+		height: 200px;
+		margin: 0 20px;
+		margin-top: 20px;
+	}
+	.reason .reason-img > div {
+		height: 100%;
+	}
+	.title {
+		font-size: 30px;
+		padding-top: 20px;
+		padding-bottom: 50px;
+	}
+	.benefit .benefit-item h4 {
+		padding-bottom: 5px;
+	}
+	.doctors {
+		overflow: hidden;
+	}
+	.doctors::after {
+		width: 605px;
+		height: 625px;
+		opacity: 0.7;
+		top: 0;
+		right: -80px;
+		background-position: center;
+		background-size: cover;
+	}
+	.doctors .doctors-image {
+		width: 40%;
+		margin: 0 auto 15px;
+	}
+	.doctors .doctors-text h5 {
+		display: none;
+	}
+	.doctors-image-after {
+		text-align: center;
+	}
+	.doctors-image-after::after {
+		content: "Đặng Lệ Yến - Tiến sĩ, Bác sĩ tại BV Hùng Vương TPHCM";
+		font-style: italic;
+		color: #989898;
+		font-weight: 700;
+		font-size: 16px;
+	}
+	.doctors .doctors-text {
+		padding-top: 10px;
+	}
+	.doctors .doctors-text p {
+		line-height: 30px;
+	}
+	.videos .card iframe {
+		height: 400px;
+	}
+	#review {
+		padding-top: 20px;
+		padding-bottom: 40px;
+	}
+	.forms {
+		padding-bottom: 30px;
+	}
+	.forms .forms-top .discount {
+		line-height: 26px;
+		font-size: 24px;
+	}
+	.forms form button,
+	.forms form input {
+		height: 48px;
+		font-size: 18px;
+		line-height: 48px;
+	}
+	footer #logo img {
+		width: 80px;
+		height: 80px;
+	}
+	footer .logo {
+		font-size: 30px;
+	}
+	footer {
+		padding-top: 42px;
+	}
+	.carousel .text {
+		width: 75%;
+	}
+	.doctors .doctors-text p::before {
+		top: -25px;
+	}
+	.doctors .doctors-text p::after {
+		bottom: 0;
+		left: unset;
+	}
+	.doctor-intro {
+		margin-top: 130px;
+	}
+	.video-intro {
+		padding: 0 80px;
+	}
+	.video-intro .card {
+		flex-direction: column;
+	}
+	.video-intro .card .card-body {
+		width: 100%;
+	}
+	.video-intro .card-title .card-title__left,
+	.video-intro .card-title .card-title__right {
+		display: block;
+		width: 175px;
+	}
+	br:nth-child(2) {
+		display: none;
+	}
+	.video-intro .card {
+		height: 600px;
+	}
+	.wrapper {
+		margin-bottom: 50px;
+		margin-top: 130px;
+	}
+	.menu {
+		padding: 20px 15px;
+		width: 23%;
+	}
+	.post .card .card-body .card-title {
+		font-size: 19px;
+		padding: 0 50px;
+		padding-bottom: 10px;
+		line-height: 24px;
+	}
+	.post .card .card-body .card-text {
+		line-height: 24px;
+	}
+	.blog .menu .form-check label,
+	.post .card .card-body .card-text {
+		font-size: 16px;
+	}
+	.blog .side-bar {
+		width: 25%;
+	}
+	.ask .answer p,
+	.ask .ask-item p {
+		font-size: 16px;
+	}
+	.ask .ask-item::before {
+		font-size: 28px;
+	}
+	.wrapper.detail {
+		padding: 0 50px;
+        margin: 50px 0;
+        margin-top: 130px;
+	}
+	.content-post .text h5 {
+		font-size: 26px;
+		padding-bottom: 20px;
+	}
+	.recommend__item .card .card-body h5 {
+		font-size: 18px;
+	}
+	.content-post .text p,
+	.link span,
+	.recommend__item .card .card-body p {
+		font-size: 16px;
+	}
+	.content-post .text h6 {
+		font-size: 20px;
+		padding: 13px 0;
+	}
+	.recommend {
+		margin-top: 50px;
+	}
+	.recommend .title {
+		padding-top: 0;
+	}
+	.right {
+		display: none;
+	}
+	.left {
+		width: 100%;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.review::before {
+		content: none;
+	}
+	.carousel .text h2 {
+		font-size: 30px;
+	}
+	.benefit .benefit-item p,
+	.carousel .text .text-intro p,
+	.ingredient .ingredient-item p,
+	.reason .reason-text p {
+		font-size: 16px;
+	}
+	.reason .reason-text h2 {
+		font-size: 27px;
+	}
+	.reason .reason-img {
+		margin-top: 15px;
+	}
+	.doctors .doctors-text p::after {
+		bottom: 0;
+		right: 0;
+	}
+}
+@media only screen and (max-width: 768px) {
+	header nav .navbar-collapse ul li.active {
+		border-radius: 50vh;
+		background-color: #ffffffcc;
+		opacity: 1;
+	}
+	header nav .navbar-collapse ul li.active a {
+		color: #f188a9 !important;
+		font-weight: 700;
+	}
+	.navbar-collapse {
+		width: 100vw;
+		height: 100vh;
+		position: fixed;
+		top: 0;
+		left: -100vw;
+		transition: all 2s;
+		background: rgba(0, 0, 0, 0.8);
+		z-index: 997;
+	}
+	.navbar-collapse.show {
+		left: 0;
+		touch-action: none;
+	}
+	.navbar-collapse.in {
+		overflow-y: visible;
+		transition: 0;
+	}
+	#shown {
+		position: absolute;
+		top: 30px;
+		right: 20px;
+	}
+	header nav .navbar-collapse ul {
+		height: 100%;
+		padding-top: 70px;
+	}
+	body {
+		font-size: 12px;
+	}
+	footer {
+		margin-top: 50px;
+	}
+	.carousel {
+		height: 740px;
+	}
+	.carousel .text h2 {
+		font-size: 27px;
+	}
+	.carousel .text .text-intro {
+		padding: 30px 0;
+	}
+	.reason {
+		padding: 0 50px;
+		margin-top: 737px;
+	}
+	.reason .reason-text h2 {
+		font-size: 26px;
+	}
+	.reason .reason-img {
+		margin-top: 20px;
+	}
+	.title {
+		font-size: 28px;
+		padding-top: 20px;
+		padding-bottom: 40px;
+	}
+	.carousel .text {
+		width: 77%;
+	}
+	.doctors .doctors-text p::after {
+		bottom: -10px;
+		right: 0;
+	}
+	.carousel .text .more {
+		font-size: 17px;
+	}
+	.line.left {
+		height: 10px;
+		width: 222px;
+		margin: 20px auto 30px 50px;
+	}
+	.line.right {
+		height: 10px;
+		width: 222px;
+		margin: 20px 50px 30px auto;
+	}
+	.benefit .benefit-item {
+		margin-bottom: 30px;
+	}
+	.benefit .benefit-item img {
+		margin-right: 20px;
+		width: 14%;
+	}
+	.benefit .benefit-item h4,
+	.ingredient .ingredient-item h4 {
+		font-size: 21px;
+	}
+	#review {
+		padding: 25px 0;
+	}
+	.review .review-item p {
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.videos {
+		width: 100%;
+	}
+	#ingredient h2 {
+		font-size: 28px;
+	}
+	.big-image,
+	.doctors,
+	.review,
+	.videos {
+		padding: 0 50px;
+	}
+	.doctors .doctors-text,
+	.videos .card .card-text {
+		font-size: 16px;
+	}
+	.videos .card .card-body {
+		padding: 20px;
+	}
+	.videos .card .card-title {
+		font-size: 18px;
+	}
+	.doctors{
+		margin-top: 80px;
+	}
+	.doctors .doctors-text p {
+		line-height: 27px;
+	}
+	.doctors .doctors-image {
+		border: 15px solid #fff;
+	}
+	.forms {
+		width: 75%;
+	}
+	.forms .forms-top .discount,
+	.forms .forms-top .discount .real-price,
+	.forms .forms-top .price {
+		font-size: 22px;
+	}
+	.forms .forms-top .discount > span:not([class="real-price"]) {
+		font-size: 20px;
+	}
+	.forms .forms-top .price {
+		height: 45px;
+		line-height: 45px;
+	}
+	.forms form button,
+	.forms form input {
+		height: 43px;
+		font-size: 17px;
+		line-height: 43px;
+	}
+	.video-intro .card-title .card-title__left,
+	.video-intro .card-title .card-title__right {
+		width: 130px;
+	}
+	.blog .side-bar {
+		display: none;
+	}
+	.blog .menu {
+		width: 33%;
+	}
+	.blog .post {
+		width: 65%;
+	}
+	.post .card {
+		margin-bottom: 30px;
+	}
+	.blog .menu .form-check label,
+	.post .card .card-body .card-text {
+		font-size: 15px;
+	}
+	.post .card .card-body .card-title {
+		font-size: 18px;
+		padding: 0 40px;
+		padding-bottom: 15px;
+	}
+	.ask {
+		width: 100%;
+		padding: 0 50px;
+	}
+	.ask h3 {
+		font-size: 24px;
+		margin-bottom: 20px;
+	}
+	.ask .ask-item {
+		padding: 20px;
+		padding-right: 45px;
+	}
+	.ask .ask-item::before {
+		font-size: 26px;
+	}
+	.wrapper {
+		padding: 40px;
+		margin: 0;
+		margin-top: 80px;
+	}
+	.wrapper.detail {
+		padding: 0 30px;
+        margin: 30px 0;
+        margin-top: 120px;
+	}
+	.content-post .text h5 {
+		font-size: 24px;
+		padding-bottom: 15px;
+	}
+	.content-post .text p,
+	.recommend__item .card .card-body p {
+		font-size: 16px;
+	}
+	.link span {
+		font-size: 14px;
+	}
+	.content-post .text h6 {
+		font-size: 18px;
+		padding: 10px 0;
+	}
+	.recommend {
+		margin-top: 30px;
+	}
+	.recommend__item .card .card-body h5 {
+		font-size: 17px;
+	}
+	.recommend .title button {
+		font-size: 18px;
+	}
+	.blog .menu .form-check {
+		margin-bottom: 5px;
+	}
+}
+@media only screen and (max-width: 576px) {
+	footer {
+		margin-top: 70px;
+	}
+	.carousel .text {
+		width: 90%;
+	}
+	.carousel .text h2 {
+		font-size: 24px;
+	}
+	.benefit .benefit-item p,
+	.carousel .text .more,
+	.carousel .text .text-intro p,
+	.doctors .doctors-text,
+	.review .review-item .text .name,
+	.review .review-item p,
+	.videos .card .card-text {
+		font-size: 15px;
+	}
+	.reason {
+		padding: 0 20px;
+	}
+	.ingredient .ingredient-item p,
+	.reason .reason-text p {
+		font-size: 15px;
+	}
+	.reason .reason-img {
+		height: 135px;
+		margin: 0 20px;
+		margin-top: 20px;
+	}
+	.title {
+		font-size: 26px;
+		padding-bottom: 35px;
+	}
+	.benefit {
+		width: 92%;
+	}
+	.benefit .benefit-item img {
+		width: 16%;
+		margin-right: 15px;
+	}
+	.benefit .benefit-item h4 {
+		font-size: 19px;
+		padding-bottom: 2px;
+	}
+	.benefit .benefit-item:nth-child(odd) {
+		margin-right: 0;
+	}
+	.line.left {
+		height: 8px;
+		width: 155px;
+		margin: 20px auto 30px 20px;
+	}
+	.line.right {
+		height: 8px;
+		width: 155px;
+		margin: 20px 20px 30px auto;
+	}
+	.ingredient {
+		padding: 0 20px;
+		margin-top: 15px;
+	}
+	#ingredient h2 {
+		font-size: 25px;
+	}
+	.big-image,
+	.doctors,
+	.review,
+	.videos {
+		padding: 0 20px;
+	}
+	.videos .card iframe {
+		height: 300px;
+	}
+	.carousel .text .text-intro p,
+	.doctors .doctors-text p,
+	.videos .card .card-text {
+		line-height: 26px;
+	}
+	.forms {
+		width: calc(100% - 60px);
+	}
+	.doctors .doctors-text p::after {
+		right: 55px;
+		padding-bottom: 15px;
+	}
+	.forms .forms-top .discount .real-price,
+	.forms .forms-top .price {
+		font-size: 20px;
+	}
+	.forms .forms-top .discount,
+	.forms .forms-top .discount .real-price,
+	.forms-top .price {
+		font-size: 18px;
+	}
+	.forms .forms-top .price {
+		height: 40px;
+		line-height: 40px;
+	}
+	.forms .forms-top .discount > span:not([class="real-price"]) {
+		font-size: 16px;
+	}
+	.forms form input {
+		height: 35px;
+		font-size: 15px;
+		line-height: 35px;
+		margin-bottom: 10px;
+		padding: 0 10px;
+	}
+	.forms form {
+		margin-top: 25px;
+	}
+	.video-intro .card-title .card-title__left,
+	.video-intro .card-title .card-title__right {
+		width: 90px;
+	}
+	.wrapper {
+		margin-bottom: 30px;
+		margin-top: 100px;
+		padding: 0 30px;
+	}
+	.blog .menu {
+		padding: 10px;
+		position: sticky;
+		top: 0;
+		left: 0;
+	}
+	.blog .menu .form-check label,
+	.post .card .card-body .card-text {
+		font-size: 14px;
+	}
+	.ask {
+		width: 100%;
+		padding: 0 30px;
+	}
+	.ask h3 {
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+	.ask .answer p,
+	.ask .ask-item p {
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.ask .answer,
+	.ask .ask-item {
+		padding: 20px;
+	}
+	.ask .ask-item h6 {
+		padding-top: 10px;
+	}
+	.ask .ask-item::before {
+		content: none;
+	}
+	.recommend .recommend__item {
+		justify-content: space-between;
+	}
+	.recommend__item .card {
+		width: 100%;
+		margin: 15px auto;
+	}
+	.link {
+		display: block !important;
+	}
+	.link > div:first-child {
+		padding-bottom: 10px;
+	}
+	.link span {
+		margin-right: 15px;
+	}
+	.content-post .text h5 {
+		font-size: 22px;
+	}
+	.content-post .text p,
+	.recommend__item .card .card-body p {
+		font-size: 15px;
+	}
+	.recommend .recommend__item > div {
+		width: 48%;
+	}
+	.contact_content_text p {
+		font-size: 15px;
+	}
+	.contact_content_title {
+		font-size: 26px;
+	}
+}
+@media only screen and (max-width: 480px) {
+	header nav {
+		padding: 20px;
+	}
+	header nav .navbar-brand {
+		width: 50px;
+	}
+	.carousel {
+		height: 80%;
+	}
+	.carousel .text {
+		margin-top: 150px;
+	}
+	.reason {
+		margin-top: 666px;
+	}
+	.reason .reason-text h2 {
+		font-size: 24px;
+	}
+	.ingredient .ingredient-item p,
+	.reason .reason-text p {
+		font-size: 15px;
+	}
+	.title {
+		font-size: 24px;
+		padding-bottom: 25px;
+	}
+	.benefit .benefit-item h4,
+	.forms .forms-top .price,
+	.ingredient .ingredient-item h4 {
+		font-size: 18px;
+	}
+	.line.left,
+	.line.right {
+		width: 135px;
+	}
+	#ingredient h2,
+	#review {
+		padding: 0 20px;
+	}
+	.videos .card .card-title__left,
+	.videos .card .card-title__right {
+		width: 0;
+	}
+	.forms .forms-top .price {
+		height: 36px;
+		line-height: 36px;
+		padding: 0 25px;
+	}
+	.forms .forms-top .discount,
+	.forms .forms-top .discount .real-price {
+		font-size: 16px;
+	}
+	.forms .forms-top .discount > span:not([class="real-price"]) {
+		font-size: 13px;
+	}
+	.forms form button {
+		height: 35px;
+		font-size: 15px;
+		line-height: 35px;
+	}
+	.reason .reason-img {
+		height: 100px;
+	}
+	.video-intro .card-title .card-title__left,
+	.video-intro .card-title .card-title__right {
+		display: block;
+		width: 50px;
+	}
+	.blog .menu {
+		width: 100%;
+		position: unset;
+		margin-bottom: 20px;
+	}
+	.blog .post {
+		width: 100%;
+	}
+	.recommend .recommend__item > div {
+		width: 100%;
+	}
+}
+@media only screen and (max-width: 420px) {
+	.title {
+		font-size: 22px;
+	}
+	.carousel {
+		height: 640px;
+	}
+	.reason {
+		margin-top: 639px;
+	}
+	.video-intro .card {
+		height: 565px;
+	}
+	.video-intro .card iframe {
+		height: 212px;
+	}
+	.carousel .text .text-intro p,
+	.doctors .doctors-text p,
+	.videos .card .card-text {
+		line-height: 25px;
+		font-size: 15px;
+	}
+	.carousel .text h2,
+	.reason .reason-text h2 {
+		font-size: 22px;
+		white-space: unset;
+	}
+	#ingredient h2 {
+		font-size: 22px;
+		font-weight: 700;
+	}
+	#review {
+		padding: 30px 10px;
+	}
+	.forms .forms-top .price {
+		font-size: 16px;
+		padding: 0 15px;
+	}
+	.forms .forms-top .discount > span:not([class="real-price"]) {
+		padding-left: 5px !important;
+	}
+	.wrapper {
+		margin-bottom: 20px;
+		margin-top: 120px;
+		padding: 0 20px;
+	}
+	.post .card .card-body a {
+		font-size: 15px;
+	}
+	.page-link {
+		padding: 0.3rem 0.6rem !important;
+	}
+	.wrapper #pagination .pagination .page-item .page-link {
+		font-size: 12px;
+	}
+	.ask {
+		width: 100%;
+		padding: 0 20px;
+	}
+	.ask h3 {
+		font-size: 20px;
+		margin-bottom: 15px;
+	}
+	.ask .answer p,
+	.ask .ask-item p {
+		font-size: 15px;
+		line-height: 23px;
+	}
+	.ask .answer,
+	.ask .ask-item {
+		padding: 15px;
+	}
+	.ask .ask-item h6 {
+		padding-top: 10px;
+	}
+	.ask .answer p,
+	.ask .ask-item p {
+		line-height: 26px;
+	}
+	.link .blog {
+		white-space: unset;
+	}
+	.content-post .text h5 {
+		font-size: 22px;
+	}
+	.content-post .text p,
+	.link span,
+	.recommend__item .card .card-body p {
+		font-size: 15px;
+	}
+	.recommend__item .card {
+		width: 100%;
+		margin: 10px auto;
+	}
+	.recommend .title p {
+		font-size: 20px;
+	}
+	.recommend .title button {
+		font-size: 17px;
+	}
+	.recommend hr {
+		margin-right: 0;
+	}
+	.doctors{
+		margin-top: 80px;
+	}
+	.doctors-image-after::after {
+		font-size: 15px;
+	}
+}
+@media only screen and (max-width: 375px) {
+	.carousel {
+		height: 630px;
+	}
+	.forms {
+		margin-top: 60px;
+		padding-bottom: 15px;
+	}
+	.forms form {
+		margin-top: 15px;
+	}
+	.forms .forms-top {
+		margin-top: 15px;
+	}
+	.forms .forms-top .discount > span:not([class="real-price"]) {
+		display: none;
+	}
+	.forms .forms-top .discount {
+		font-size: 15px;
+	}
+	.forms .forms-top .price {
+		margin-left: 5px;
+		padding: 0 15px;
+		height: 30px;
+		font-size: 16px;
+		line-height: 30px;
+	}
+	.forms form button,
+	.forms form input {
+		height: 40px;
+		font-size: 15px;
+		line-height: 30px;
+		width: 80%;
+		margin-bottom: 10px;
+	}
+	footer {
+		margin-top: 80px;
+	}
+	footer #logo img {
+		width: 60px;
+		height: 60px;
+	}
+	footer .logo {
+		font-size: 26px;
+	}
+	footer p:not([class="logo"]) {
+		padding: 0 20px;
+		text-align: center;
+	}
+	footer .social {
+		text-align: center;
+	}
+	footer .social a img {
+		width: 14%;
+		margin: auto;
+	}
+	.video-intro .card-title .card-title__left,
+	.video-intro .card-title .card-title__right {
+		display: none;
+	}
+	.video-intro .card {
+		height: 580px;
+	}
+	.doctors .doctors-text p::after {
+		bottom: -5px;
+		padding-bottom: 0;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.carousel {
+		height: 100%;
+	}
+	.carousel .text {
+		margin-top: 120px;
+	}
+	.carousel .text h2 {
+		font-size: 20px;
+	}
+	.carousel .text .text-intro {
+		padding: 15px 0;
+	}
+	.benefit .benefit-item p,
+	.carousel .text .text-intro p,
+	.doctors .doctors-text,
+	.ingredient .ingredient-item p,
+	.reason .reason-text p,
+	.review .review-item p,
+	.videos .card .card-text {
+		font-size: 14px;
+	}
+	.reason {
+		margin-top: 567px;
+	}
+	.reason .reason-text h2 {
+		font-size: 20px;
+		margin-bottom: 10px;
+	}
+	.reason .reason-img {
+		height: 85px;
+	}
+	.title {
+		font-size: 20px;
+		padding: 15px 20px 25px 20px;
+	}
+	.line.left {
+		width: 100px;
+		margin: 0 auto 30px 20px;
+	}
+	.line.right {
+		width: 100px;
+	}
+	#ingredient h2 {
+		font-size: 22px;
+	}
+	.big-image {
+		margin-top: 0;
+	}
+	.videos .card iframe {
+		height: 160px;
+	}
+	.doctors {
+		margin-top: 120px;
+	}
+	.forms {
+		margin-top: 30px;
+		padding-bottom: 15px;
+	}
+	.forms form {
+		margin-top: 15px;
+	}
+	.forms .forms-top {
+		margin-top: 15px;
+	}
+	.forms .forms-top .discount > span:not([class="real-price"]) {
+		display: none;
+	}
+	.forms .forms-top .discount {
+		font-size: 15px;
+	}
+	.forms .forms-top .price {
+		margin-left: 5px;
+		padding: 0 15px;
+		height: 30px;
+		font-size: 16px;
+		line-height: 30px;
+	}
+	.forms form button,
+	.forms form input {
+		height: 30px;
+		font-size: 14px;
+		line-height: 30px;
+		width: 80%;
+		margin-bottom: 10px;
+	}
+	footer {
+		margin-top: 80px;
+	}
+	footer #logo img {
+		width: 60px;
+		height: 60px;
+	}
+	footer .logo {
+		font-size: 26px;
+	}
+	footer p:not([class="logo"]) {
+		padding: 0 20px;
+		text-align: center;
+	}
+	footer .social {
+		text-align: center;
+	}
+	footer .social a img {
+		width: 14%;
+		margin: auto;
+	}
+	.doctors .doctors-image {
+		border: 7px solid #fff;
+	}
+	.doctors .doctors-text p,
+	.review .review-item p,
+	.videos .card .card-text {
+		line-height: 1.9;
+	}
+	.video-intro .card-title .card-title__left,
+	.video-intro .card-title .card-title__right {
+		display: none;
+	}
+	.wrapper {
+		margin-bottom: 15px;
+		margin-top: 115px;
+		padding: 0 15px;
+	}
+	.post .card .card-body .card-text {
+		line-height: 20px;
+	}
+	.post .card .card-body .card-title {
+		padding: 0 10px;
+		padding-bottom: 10px;
+	}
+	.ask {
+		padding: 0 15px;
+	}
+	.ask h3 {
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+	.ask .answer p,
+	.ask .ask-item p {
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.ask .answer,
+	.ask .ask-item {
+		padding: 10px;
+	}
+	.ask .ask-item h6 {
+		padding-top: 10px;
+	}
+	.wrapper.detail {
+		margin: 20px 0;
+        padding: 0 15px;
+        margin-top: 120px;
+	}
+	.link {
+		padding-bottom: 15px;
+	}
+	.content-post .text h5 {
+		font-size: 20px;
+	}
+	.content-post .text p,
+	.link span,
+	.recommend__item .card .card-body p {
+		line-height: 24px;
+	}
+	.content-post .text h6 {
+		font-size: 17px;
+		padding: 5px 0;
+	}
+	.recommend .title {
+		padding: 0;
+	}
+	.recommend .title p {
+		font-size: 18px;
+	}
+	.recommend .title button {
+		font-size: 16px;
+	}
+	.recommend .recommend__item .card .card-body {
+		padding: 10px;
+	}
+	.recommend__item .card .card-body h5 {
+		font-size: 17px;
+	}
+}
